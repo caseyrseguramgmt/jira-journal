@@ -6,5 +6,11 @@
 //git rebase main
 // git push -f
 
-//wijenvewrjkvnw
-//ewrijnvewijn
+
+
+//making a branch
+//git checkout -b branchName 
+//git add .
+//git commit -m "message"
+//git push origin branchName
+//git checkout main
