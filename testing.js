@@ -23,3 +23,12 @@
 //git checkout branch
 //git rebase main
 //git push -f
+
+//after
+//fix conflicts
+//git add .
+//git rebase --continue
+//:wq
+//enter
+
+//do other changes like normal
