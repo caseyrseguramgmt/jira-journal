@@ -1,3 +1,29 @@
+/* 
+JS Basics
+// Variables
+
+// Data Types
+
+// Functions
+
+// Conditionals
+
+// Loops
+
+// Arrays
+
+// Objects
+
+// ES6 Features
+
+// Promises & Async/Await
+
+// DOM Manipulation
+
+// Classes
+
+*/
+
 //????
 //test file to work on git rebase
 //git checkout main
