@@ -1,4 +1,4 @@
-/*
+/* JS Basics
 // Variables
 
 // Data Types
